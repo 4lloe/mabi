@@ -8,4 +8,4 @@ The work was done by a student at the Kharkov National University of Radioelectr
  using a template from the open source Figma.
  The project is not commercial and serves as practice for the student.
 
-![Image alt](https://github.com/4lloe/Images/blob/546f037e610fcf08b697eda28ae562e7ec2317cf/preview.png](https://github.com/4lloe/Images/blob/main/preview.png))
+![Page preview]([https://github.com/4lloe/Images/blob/546f037e610fcf08b697eda28ae562e7ec2317cf/preview.png])
